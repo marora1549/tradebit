@@ -26,7 +26,7 @@ Ensure you have the following installed on your system:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tradebit.git
+   git clone https://github.com/marora1549/tradebit.git
    cd tradebit
    ```
 
